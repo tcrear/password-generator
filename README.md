@@ -1,2 +1,6 @@
 # password-generator
-hw03
+This project was used to create a general password generator.
+
+## password-screenshot
+
+./assets/images/screenshot.jpg
